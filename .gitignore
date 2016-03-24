@@ -216,3 +216,8 @@ pip-log.txt
 
 *.idea
 hacker-rank-challenges/out
+*.*~
+hacker-rank-challenges/project/project
+hacker-rank-challenges/project/target
+hacker-rank-challenges/target
+*/.idea_modules/*
